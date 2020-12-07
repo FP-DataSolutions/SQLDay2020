@@ -7,6 +7,10 @@ Not that long ago **data warehouses** dominated commercial solutions as a fundam
 
 ## [Demo](./Demos/Demo.md) 
 
+## Q&A
+
+[Auto generate symlink delta manifest](./Demos/AutoGenDeltaManifest.md)
+
 ## Useful links
 
 https://github.com/FP-DataSolutions/DeltaWarehouse
